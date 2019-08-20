@@ -1,0 +1,4 @@
+browserType = chrome
+pageloadtimeout=20
+elementDetectionTimeout=10
+baseUrl1=http://demo.guru99.com/v4

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.124 s <<< FAILURE! - in TestSuite
+verifyTitleOfThePage(in.amazon.test.HomepageTests)  Time elapsed: 0.026 s  <<< FAILURE!
+java.lang.AssertionError: expected [Amazon Home Page] but found [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more]
+	at in.amazon.test.HomepageTests.verifyTitleOfThePage(HomepageTests.java:27)
+
